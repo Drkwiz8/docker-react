@@ -9,4 +9,3 @@ COPY . .
 
 CMD ["npm", "run", "start"]
 
-@babel/plugin-proposal-private-property-in-object
